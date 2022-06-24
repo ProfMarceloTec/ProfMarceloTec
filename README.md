@@ -8,6 +8,20 @@ Sou licenciado em Computação e Graduado em Tecnologia em Processamento de Dado
 Trabalho com ensino em informática desde 1993 e lecionei em diversas escolas particulares e públicas em Curitiba e Região Metropolitana.
 Tenho também várias especializações em Tecnologia e Educação Profissional. Atualmente trabalho com o novo ensino médio com a disciplina de Pensamento Computacional e também com cursos técnicos como Linguagem de Programação, Internet e Programação para Web e Banco de Dados.
 
+
+
+
+
+<div class="row">
+  <div class="column">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
+  </div>
+  <div class="column">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48"/>
+  </div>
+</div>
+          
+
 # Exemnplo de Readme.md para projetos
 
 ## 🚀 Começando
